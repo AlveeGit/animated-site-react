@@ -31,3 +31,19 @@ export const cocktailLists = [
     price: "$25",
   },
 ];
+
+export const goodLists = [
+  "High-quality ingredients",
+  "Expert craftsmanship",
+  "Unique flavor combinations",
+  "Artistic presentation",
+  "Attention to detail",
+];
+
+export const featureLists = [
+  "Innovative techniques",
+  "Creative mixology",
+  "Exceptional customer service",
+  "Delightful cocktails",
+  "Premium ingredients",
+];

@@ -19,10 +19,10 @@ const About = () => {
     scrollTimeline
       .from(tittleSplit.words, {
         opacity: 0,
-        duration: 1,
+        duration: .5,
         yPercent: 100,
         ease: "expo.out",
-        stagger: 0.1,
+        stagger: 0.01,
       })
       .from(
         ".top-grid div, .bottom-grid div",
