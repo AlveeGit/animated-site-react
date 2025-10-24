@@ -1,4 +1,4 @@
-import React from "react";
+
 import gsap from "gsap";
 import { navLinks } from "../../constants";
 import { useGSAP } from "@gsap/react";
